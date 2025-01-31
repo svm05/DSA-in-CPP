@@ -1,2 +1,2 @@
 # DSA-in-CPP
-The questions I practiced during my DSA preparation
+The questions I practiced during my DSA preparation.I am focusing on my placements.
